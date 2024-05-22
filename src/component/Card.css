@@ -1,0 +1,22 @@
+.card{
+  padding: 10px;
+  fontFamily: Arial;
+  width:200px;
+  height:150%;
+  border:solid black;
+  border-radius:10px;
+  margin-top:20%;
+  max-width:200px;
+  max-height:150px;
+  word-wrap: break-word;
+}
+.heading{
+  font-weight:500;
+  font-size:120%;
+}
+.heading2{
+  text-shadow:2px 2px 4px slateblue;
+  font-weight:1000;
+  font-size:150%;
+  
+}

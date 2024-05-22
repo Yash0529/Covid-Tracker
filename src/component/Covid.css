@@ -1,0 +1,18 @@
+.main{
+  display:flex;
+  flex-wrap: wrap;
+  align-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+body{
+  background:linear-gradient(135deg,#cbf6ff,#e5daff)
+}
+.Cards{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 100px;
+  justify-content:space-between;
+  
+}
+
